@@ -31,17 +31,38 @@ color: crimson;
 }
 
 
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
+h1 {
+    font-size: 80px;
+}
 
+h1 {
+    text-align: center;
+}
 
+h1 {
+    text-decoration: underline;
+}
 
+a {
+    text-decoration: none;
+}
 
+.square {
+    background-color: cadetblue;
+}
 
-
-
-
-
-
+.square {
+    background-color: blue;
+    width: 50%;
+    height: 300px;
+}
 
 
 
